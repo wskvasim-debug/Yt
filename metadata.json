@@ -1,0 +1,7 @@
+{
+  "name": "Ilma School Fees",
+  "description": "Student fee payment collection and management portal for Ilma School",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
